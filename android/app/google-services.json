@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055739173445",
+    "project_id": "fundcollector-aecee",
+    "storage_bucket": "fundcollector-aecee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055739173445:android:f14f60d0f9870a51b2e12c",
+        "android_client_info": {
+          "package_name": "com.example.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055739173445-1osrh0ql32k8l42j4qfth38u6sp221jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMTH8jVsPGRw85X_Pgw22AnFD2ZeV6h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055739173445-1osrh0ql32k8l42j4qfth38u6sp221jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
